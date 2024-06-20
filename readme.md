@@ -1,8 +1,8 @@
 ## Redbus homepage clone
 
-In this project user has to clone the homepage of the popular website redbus.
+In this project, the user has to clone the homepage of the popular website Redbus.
 
-The homepage of redbus is not responsive by itself as they have seprate mobile web app for it, so if user wants to make it responsive then they have to think about it by their own.
+The homepage of Redbus is not responsive by itself as they have separate mobile web apps for it.
 
 > All the required assets are given in the **assets** folder.
 
@@ -13,6 +13,6 @@ The homepage of redbus is not responsive by itself as they have seprate mobile w
 
 ## Website Link
 
-Below is the link for the redbus homepage.
+Below is the link for the Redbus homepage.
 
 [Redbus Homepage](https://www.redbus.in/)
